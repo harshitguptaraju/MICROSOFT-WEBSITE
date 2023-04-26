@@ -1,0 +1,53 @@
+*{
+    margin: 0; padding: 0; box-sizing: border-box;
+}
+.bodystyle{
+width: 90%;
+margin: 0 auto;
+}
+#micrologo{
+    height: 40px;
+
+}
+main{
+    margin:40px 0;
+}
+.card{
+    border: none! important;
+}
+.card-body{
+    padding: 5px 0! important;
+}
+.msstyle{
+    width: 100%;
+    height: 450px;
+    background-image: url(microsoft9.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 20px 0;
+}
+.btmcardsec{
+    margin-bottom: 50px;
+}
+.fa-youtube{
+    color: red;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.fa-facebook-official{
+    color:#1c1ea7;
+}
+footer{
+    color: black;
+    padding: 40px 0;;
+}
+footer li{
+    list-style: none;
+}
+footer a{
+    color: #818181;
+}
+.footerbtncredit{
+    display: flex;
+    justify-content: space-between;
+}

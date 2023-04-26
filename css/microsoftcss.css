@@ -1,0 +1,43 @@
+
+#menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}#menu li{
+    display: inline-block;
+}
+#menu li a{
+    color:black;
+    
+    padding: 15px 10px;
+    display: block;
+}
+#menu li a:hover{
+background-color: rgb(68, 68, 164);
+}
+a:hover{
+    text-decoration: none;
+}
+#menur li{
+    display: inline-block;
+}
+#menur{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+#menur li a{
+    color:black;
+    
+    padding: 15px 10px;
+    display: block;
+}
+#menur li a:hover{
+background-color: rgb(68, 68, 164);
+}
+a:hover{
+    text-decoration: none;
+}
+#menu2 li{
+    display: inline-block;
+}
